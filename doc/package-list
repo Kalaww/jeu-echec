@@ -1,0 +1,11 @@
+echecs
+echecs.graphisme
+echecs.graphisme.jeu
+echecs.graphisme.replay
+echecs.jeu
+echecs.jeu.IA
+echecs.jeu.piece
+echecs.reseau.client
+echecs.reseau.serveur
+echecs.sauvegarde
+echecs.utils
